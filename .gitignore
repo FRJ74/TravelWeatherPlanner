@@ -402,6 +402,9 @@ healthchecksdb
 MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
+
+# VS Code virtual environment
+.venv/
 **/.ionide/
 
 # Fody - auto-generated XML schema
